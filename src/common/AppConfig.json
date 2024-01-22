@@ -1,0 +1,56 @@
+{
+  "Opencart": {
+    "url": "http://eketal.bolcore.com"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "bannerImage",
+      "category": 25,
+      "imageBanner": "https://inspireui.com/wp-content/uploads/2019/04/Preview_4.jpg"
+    },
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "name": "jacket",
+      "image": "",
+      "layout": "list",
+      "category": 20
+    },
+    {
+      "name": "jacket",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 17
+    },
+    {
+      "layout": "bannerHigh",
+      "category": 24
+    },
+    {
+      "name": "hoodies",
+      "image": "",
+      "layout": "list",
+      "category": 33
+    },
+    {
+      "name": "bagsCollections",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 34
+    },
+    {
+      "name": "promotion",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 17
+    },
+    {
+      "name": "bagsCollections",
+      "image": "",
+      "layout": "card",
+      "category": 33
+    }
+  ],
+  "MainColor": "#3FC1BE"
+}

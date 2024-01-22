@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "OpencartStore",
+    "description": "MStore Opencart - Complete React Native template for e-commerce. More detail http://bit.ly/2ueNKRf - Make with ♥ by InspireUI -",
+    "slug": "mstore-opencart",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4"
+      ]
+    },
+    "assetBundlePatterns": [
+      "assets/fonts/*",
+      "assets/images/icons/*",
+      "src/images/*",
+      "src/Expo/vector-icons/fonts//*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.inspireui.opencart",
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "com.inspireui.opencart"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "version": "1.0.0",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
